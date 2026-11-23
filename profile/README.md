@@ -6,7 +6,7 @@ Ruumble turns the channels of a Mumble server into floors and rooms. You see at 
 
 [![Server release](https://img.shields.io/github/v/release/ruumble-project/ruumble-server?label=server)](https://github.com/ruumble-project/ruumble-server/releases/latest) [![Client release](https://img.shields.io/github/v/release/ruumble-project/ruumble-client?label=client)](https://github.com/ruumble-project/ruumble-client/releases/latest) [![What's new](https://img.shields.io/badge/what's%20new-release%20notes-0078be)](https://github.com/ruumble-project/ruumble-server/blob/main/docs/whats-new/README.md)
 
-![Ruumble: moving between rooms, a new post on the board, the elevator and back via the room sign](https://raw.githubusercontent.com/ruumble-project/ruumble-server/main/docs/images/ruumble-demo.gif)
+![Ruumble: a floor with its rooms and people, the board beside it, task boards with their flags, a notice on a room and the cafeteria sign in the top bar](https://raw.githubusercontent.com/ruumble-project/ruumble-server/main/docs/images/ruumble-overview.png)
 
 ## Is Ruumble for you?
 
